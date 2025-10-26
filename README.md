@@ -8,6 +8,8 @@ Nội dung bài tập 2
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3b466c9-1c5c-44ed-8d4f-504c2a3b8a95" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11da21a5-d327-430a-8d76-0dd0b38b3fce" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81299d65-6694-4ed9-893b-587046cc71d3" />
+![Uploading image.png…]()
+
 
 
 
